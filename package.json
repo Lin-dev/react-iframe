@@ -1,7 +1,7 @@
 {
-  "name": "react-iframe",
+  "name": "react-iframe-mod",
   "version": "1.2.0",
-  "description": "Easy peasy lemon squeezy iframes with react",
+  "description": "Forked from react-iframe-mod",
   "main": "index.min.js",
   "peerDependencies": {
     "react": ">=16.x.x"
@@ -45,20 +45,13 @@
       "git add"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:svenanders/react-iframe.git"
-  },
-  "homepage": "https://github.com/svenanders/react-iframe",
   "keywords": [
     "react",
     "react-component",
     "iframe"
   ],
   "author": {
-    "name": "Sven Anders Robbestad",
-    "email": "anders@robbestad.com",
-    "url": "https://www.robbestad.com"
+    "name": "Updated by Nathaniel Quashie, Sven Anders Robbestad"
   },
   "scripts": {
     "test": "mocha --require babel-register test/",
